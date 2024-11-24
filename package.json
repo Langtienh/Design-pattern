@@ -1,0 +1,15 @@
+{
+  "name": "design-pattern",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node -r tsconfig-paths/register src/index.ts"
+  },
+  "author": "Lang tien",
+  "license": "ISC",
+  "description": "design-pattern",
+  "keywords": [],
+  "devDependencies": {
+    "tsconfig-paths": "^4.2.0"
+  }
+}
